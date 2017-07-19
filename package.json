@@ -1,0 +1,30 @@
+{
+  "name": "file-watcher-webpack-plugin",
+  "version": "0.0.1",
+  "description": "file watcher according to  glob pattern for webpack",
+  "main": "file-watcher-webpack-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonlx/file-watcher-webpack-plugin.git"
+  },
+  "keywords": [
+    "file",
+    "watcher",
+    "webpack",
+    "plugin"
+  ],
+  "author": "sharonli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonlx/file-watcher-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/sharonlx/file-watcher-webpack-plugin#readme",
+  "dependencies": {
+    "watch": "^1.0.2",
+    "glob": "^7.1.2",
+    "chalk": "^1.1.3"
+  }
+}

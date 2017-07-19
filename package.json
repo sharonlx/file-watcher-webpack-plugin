@@ -1,5 +1,5 @@
 {
-  "name": "file-watcher-webpack-plugin",
+  "name": "file-watcher-glob-webpack-plugin",
   "version": "0.0.1",
   "description": "file watcher according to  glob pattern for webpack",
   "main": "file-watcher-glob-webpack-plugin.js",

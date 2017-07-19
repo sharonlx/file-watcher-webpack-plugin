@@ -2,7 +2,7 @@
   "name": "file-watcher-webpack-plugin",
   "version": "0.0.1",
   "description": "file watcher according to  glob pattern for webpack",
-  "main": "file-watcher-webpack-plugin.js",
+  "main": "file-watcher-glob-webpack-plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
